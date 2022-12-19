@@ -1,0 +1,5 @@
+/*Cuadramos tamaño de imagenes*/
+img.img-thumbnail {
+  width: 80%;
+  height: 80%;
+}
